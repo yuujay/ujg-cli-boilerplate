@@ -1,0 +1,29 @@
+{
+  "name": "ujg-cli-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate code that can be used to create CLIs as node packages.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "<CLI_NAME>": "cli.js"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "commandline",
+    "command"
+  ],
+  "author": {
+     "name": "yuujay",
+     "email": "gowtham.uj@gmail.com",
+     "url": "yuujay.tk"
+  },
+  "dependencies": {
+  
+  },
+  "devDependencies": {
+  
+  },
+  "license": "MIT"
+}
