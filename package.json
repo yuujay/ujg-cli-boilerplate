@@ -14,6 +14,10 @@
     "commandline",
     "command"
   ],
+  "repository": {
+  "type" : "git",
+  "url" : "https://github.com/ujgowtham/ujg-cli-boilerplate.git"
+  },
   "author": {
      "name": "yuujay",
      "email": "gowtham.uj@gmail.com",
